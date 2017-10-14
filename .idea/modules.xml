@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IdeaProjects-functional_ddd_kotlin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/IdeaProjects-functional_ddd_kotlin_main.iml" group="functional_ddd_kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IdeaProjects-functional_ddd_kotlin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/IdeaProjects-functional_ddd_kotlin_test.iml" group="functional_ddd_kotlin" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/functional_ddd_kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/functional_ddd_kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/functional_ddd_kotlin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/functional_ddd_kotlin_main.iml" group="functional_ddd_kotlin" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/functional_ddd_kotlin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/functional_ddd_kotlin_test.iml" group="functional_ddd_kotlin" />
