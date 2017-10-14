@@ -4,7 +4,6 @@ data class KundeId(val name: String)
 data class WarenkorbId(val id: Int)
 data class ProduktId(val id: Int)
 
-
 abstract class Command
 abstract class WarenkorbCommand(open val warenkorb: WarenkorbId): Command()
 data class LegeWarenkorbAn(override val warenkorb: WarenkorbId, val kunde: KundeId): WarenkorbCommand(warenkorb)
